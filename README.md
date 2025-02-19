@@ -1,4 +1,4 @@
-- 👋 Hola soy roycs
+- 👋 Hola soy Roycs
 - 👀 Actualmente soy un estudiante de desarrollo de software
 - 🌱 En este momento estoy aprendiendo python
 <!---
