@@ -5,8 +5,8 @@
 ---
 
 ### 📚 Sobre mí
-
-- 👨‍💻 Apasionado por resolver problemas con código.
+- 
+- 👨‍💻 Estudiante de desarrollo apasionado por resolver problemas con código.
 - 🌱 En proceso de aprendizaje: **Python** y fundamentos del desarrollo backend.
 ---
 
